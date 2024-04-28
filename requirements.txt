@@ -1,0 +1,9 @@
+dj-database-url==0.4.2
+# Django==1.11.29
+Django==4.2.11      #EJS 4/26 :   pip --upgrade django
+# django-widget-tweaks==1.4.1
+django-widget-tweaks==1.5.0
+Markdown==2.6.9
+python-decouple==3.1
+requests==2.26.0
+pillow==10.3.0
